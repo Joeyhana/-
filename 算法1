@@ -1,0 +1,5 @@
+＃打印 helloword
+#include <stdio.h>
+void main(){
+  printf("Hello world");
+}
