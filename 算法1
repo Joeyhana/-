@@ -1,4 +1,4 @@
-＃打印 helloword
+＃测试
 #include <stdio.h>
 void main(){
   printf("Hello world");
