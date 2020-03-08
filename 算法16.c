@@ -1,9 +1,10 @@
 #include <stdio.h>
+
 int main(){
     long long a,b,da,db,pa=0 ,pb=0;
-    //ÊäÈë
+    //ÃŠÃ¤ÃˆÃ«
     scanf("%lld %lld %lld %lld",&a,&da,&b,&db);
-    while(a!=0){//±éÀú a
+    while(a!=0){//Â±Ã©Ã€Ãº a
         if(a%10==da) pa=pa*10+da;
         a=a/10;
     }
