@@ -44,7 +44,7 @@ int main(){
         if(n==1){
             printf("There is %d account and no account is modified",n);
         }else{
-            printf("There is %d accounts and no account is modified",n);
+            printf("There are %d accounts and no account is modified",n);
         }
     }else{
         printf("%d\n",cnt);
